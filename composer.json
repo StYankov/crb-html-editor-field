@@ -1,0 +1,14 @@
+{
+    "name": "skills/crb-html-editor-field",
+    "description": "Carbon Fields HTML Editor Field",
+    "keywords": ["wordpress", "carbon-field", "carbon-field-html-editor"],
+    "type": "wordpress-plugin",
+    "license": "GPL-2.0+",
+    "authors": [],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Carbon_Field_HTML_Editor\\": "core/"
+        }
+    }
+}
